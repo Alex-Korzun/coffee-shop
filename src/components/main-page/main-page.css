@@ -1,0 +1,12 @@
+.main-page {
+    background: url('../../img/desk-791178_1920.png'), lightgray 50% / cover no-repeat;
+}
+
+.btn {
+    color: #FFF;
+    font-family: Merienda;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
